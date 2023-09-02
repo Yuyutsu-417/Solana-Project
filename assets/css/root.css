@@ -1,0 +1,21 @@
+:root{
+    /* FONT SIZE */
+    --fs-s3: 12px;
+    --fs-s2: 14px;
+    --fs-s1: 16px;
+    --fs-s:  18px;
+    --fs-m:  20px;
+    --fs-l:  24px;
+    --fs-l1: 36px;
+    --fs-xl: 48px;
+
+    /* FONT FAMILY */
+
+    --ff-pop:'Poppins', sans-serif;
+    --ff-robot:'roboto', sans-serif;
+
+    /* BG-COLOR */
+    --bg-yellow:#F6E300;
+    --bg-l-yellow:#FFF03F;
+    --bg-red:#F4241E;
+}
